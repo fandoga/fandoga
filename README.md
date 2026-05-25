@@ -27,11 +27,11 @@
 
 
 ### Интересные проекты
-  [Moon-Flowers](https://moon-flowers.ru/ "Интернет магазин цветов на базе TableCrm, разработан с нуля")
-  [Cle-Ver](https://cle-ver.ru "Интернет магазин зелени и растительности, разработан с нуля")
-  [TableCrm](https://tablecrm.com "Лендинг crm-платформы tableCrm, работал над самой платформой")
-  [Alpro](https://www.alpro.com "Заказной проект в команде belgrade.dev")
-  [Belgrade.dev](https://belgrade.dev "Сайт студии заказной разработки, участвовал в разработке")
+  [Moon-Flowers](https://moon-flowers.ru/ "Интернет магазин цветов на базе TableCrm, разработан с нуля")<br/>
+  [Cle-Ver](https://cle-ver.ru "Интернет магазин зелени и растительности, разработан с нуля")<br/>
+  [TableCrm](https://tablecrm.com "Лендинг crm-платформы tableCrm, работал над самой платформой")<br/>
+  [Alpro](https://www.alpro.com "Заказной проект в команде belgrade.dev")<br/>
+  [Belgrade.dev](https://belgrade.dev "Сайт студии заказной разработки, участвовал в разработке")<br/>
   
 ---
 
